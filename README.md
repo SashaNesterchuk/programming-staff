@@ -1,4 +1,22 @@
 # programming-staff
+# Grasp
+1. Information expert
+2. Creator
+3. Controller
+4. Indirection
+5. Low coupling
+6. High cohesion
+7. Polymorphism
+8. Protected variations
+9. Pure fabrication
+
+# SOLID
+1. Single responsobility principle
+2. Open/close principle
+3. Liskov substitution principle
+4. Interface segregation principle
+5. Dependency inversion principle
+
 
 # Design patterns
 
@@ -28,6 +46,8 @@
    - [Template Method]()
    - [Visitor]()
 
+# Dependency inversion and inversion of conrtol
+[Read here](https://medium.com/@viktor.kukurba/dependency-injection-and-inversion-of-control-in-javascript-303e07e7f43f)
 # Algorithms
 [The best way is to look at this repo](https://github.com/trekhleb/javascript-algorithms#algorithms)
 # Data Structure
@@ -133,3 +153,7 @@
 
 1. Scrum
 2. Kanban
+
+# The four elements for simple desighn
+[Read here](https://gist.github.com/O-I/cf6eecc3c27200fdce652fc6f88d1a60#the-four-elements-of-simple-design)
+
