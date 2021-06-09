@@ -105,6 +105,8 @@
 1. [Behaviour Driven Development BDD]()
 2. [Test Development BDD]()
 3. [Arrange Act and Assert AAA Pattern](https://medium.com/@pjbgf/title-testing-code-ocd-and-the-aaa-pattern-df453975ab80)
+4. [F.I.R.S.T.](https://medium.com/@tasdikrahman/f-i-r-s-t-principles-of-testing-1a497acda8d6)
+5. [Acceptance Test Patterns](http://fitnesse.org/FitNesse.FullReferenceGuide.UserGuide.WritingAcceptanceTests.AcceptanceTestPatterns)
 
 # Refactoring
 
